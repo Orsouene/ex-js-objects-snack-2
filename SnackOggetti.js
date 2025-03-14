@@ -103,5 +103,6 @@
 //* };
 
 //!SNACK-6  BONUS
-
-//!SNACK-7  BONUS
+// Qual è il metodo migliore per clonare l’oggetto chef, e perché?
+//? Il metodo migliore sara di fare la copia manualmente usando il spead operator
+//? -perche permette di usara la copia superficiale perche permette di copiare le Funzione e tutte le proprieta di primo livello
